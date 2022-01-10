@@ -20,6 +20,7 @@ print("Hello world")
 * [Team Lead Roadmap](https://tlroadmap.io/)
 * [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/)
 * [Блог Data Engineer](https://luminousmen.com/)
+* [Start Data Engineer](https://www.startdataengineering.com)
 
 ## Disclaimer
 
